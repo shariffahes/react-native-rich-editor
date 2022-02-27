@@ -250,6 +250,7 @@ export interface RichToolbarProps {
     unselectedButtonStyle?: StyleProp<ViewStyle>;
     selectedButtonStyle?: StyleProp<ViewStyle>;
     disabledButtonStyle?: StyleProp<ViewStyle>;
+    toolBarBGColor?: string
 
     /**
      * Color for selected button Icon
