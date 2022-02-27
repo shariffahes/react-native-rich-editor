@@ -279,7 +279,7 @@ export default class RichToolbar extends Component {
 const styles = StyleSheet.create({
     barContainer: {
         height: 44,
-        backgroundColor: '#efefef',
+        backgroundColor: 'red',
         alignItems: 'center',
     },
 
